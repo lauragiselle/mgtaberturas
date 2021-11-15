@@ -1,0 +1,19 @@
+main{
+  margin-top: 2em;
+  background: rgb(243, 243, 243);
+  color: rgb(88, 88, 88);
+}
+
+/***************** BARRA NAV FIJA **********************/
+.navbar{
+  background:  rgb(4, 0, 58)!important;
+  position: fixed;
+}
+
+.navbar-nav li a{
+  font-family: 'Lato', sans-serif;
+  color:   rgb(255, 255, 255) !important;
+  font-weight: bold;
+  font-size: 1.2em;
+  letter-spacing: 1px;
+}
